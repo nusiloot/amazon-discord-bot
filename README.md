@@ -1,5 +1,5 @@
 # amazon-discord-bot
-A Discord bot that, when provided the link to an Amazon listing, extracts the item's OfferID (also known as data-encoded-offering) and delivers it in a message in the Discord channel.
+A Discord.py bot that, when provided the link to an Amazon listing, extracts the item's OfferID (also known as data-encoded-offering) and delivers it in a message in the Discord channel.
 
 # installation
 Download the files, create a Discord bot application at https://discord.com/developers/applications, then paste the bot token in the .env file
